@@ -18,7 +18,7 @@
 }
 .bx-flip-horizontal
 {
-    transform: scaleX(-1);
+    transform: scZadiki(-1);
 
     -ms-filter: 'progid:DXImageTransform.Microsoft.BasicImage(rotation=0, mirror=1)';
 }

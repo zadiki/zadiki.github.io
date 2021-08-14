@@ -1243,7 +1243,7 @@
         }
 
         doingZoom = true;
-        mediaImage.scaleX = mediaImage.scaleY = initScale * evt.zoom;
+        mediaImage.scZadiki = mediaImage.scaleY = initScale * evt.zoom;
         var scale = initScale * evt.zoom;
         imageZoomed = true;
 
